@@ -130,6 +130,7 @@
         </div>
         <div class="form-container register-form">
             <form method="POST">
+            
                 <h2>Crear Cuenta</h2>
                 <input type="text" name="Nombre" placeholder="Nombre" required>
                 <input type="text" name="Apellidos" placeholder="Apellidos" required>
